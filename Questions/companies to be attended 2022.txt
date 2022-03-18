@@ -1,0 +1,144 @@
+
+
+Kowshik Attended interviews
+
+Capgemini
+Accenture
+Nelson IQ
+Oracle
+Nacro
+Infosys
+
+EY
+Nasdaq Bangalore
+Athenahealth
+HCL
+
+hirist.com
+instahyre.com
+
+
+
+Athenahealth
+
+	Round 1
+		Logical DS 
+
+	Round 2 
+		Tech questions
+
+	Round 3 
+		java Manager round
+		HR
+
+SSN Alumni's Database - https://ssn.almaconnect.com/alumni
+
+1. Roopeshwar Devarajan
+
+Software Engineer at Motorq, Chennai (Very very tough)
+Amazon
+
+2. JP Morgans
+Goldman sachs
+CRED
+swiggy
+caterpillar
+salesforce
+inflection.io
+postman
+cloudera
+xome
+Nokia
+Temenos
+visteon
+Intellect Design Arena Ltd, Chennai
+Navis, Chennai
+Apptium Technologies
+Verizon
+zomato
+zoho
+Mitsubishi Hitachi Power Systems India Pvt. Lt, Bangalore
+Xchanging, Chennai
+solartis technology, Chennai
+Dell EMC Corporation, Bagmane World Technology Center, KR Puram Marathahalli North Ring Road Hobli, Doddanekundi, Mahadevapura, Bengaluru, Karnataka 560048
+McAfee
+Amadeus Software Labs India Pvt Ltd, 6 Etamin B Block, Prestige Tech Park Internal Rd, Kadubeesanahalli, Marathahalli, Bengaluru, Karnataka 560103
+samsung electronics pvt limited, Chennai
+VKTechnosoft, Chennai
+EMIS Health, Chennai
+Trimble Inc., Chennai
+Lister Technologies, Chennai
+ZakApps, Chennai
+Avaz Inc, chennai
+Siemens Healthineers
+Amadeus Software Labs, Bangalore
+Comcast, Chennai
+CaratLane Trading Private Limited
+Tata Elxsi, Chennai
+Ford Motors, chennai
+Calibraint Technologies, Chennai
+Fidelity Investments, Chennai
+Butlr Health, Chennai
+Payoda Technologies, Chennai
+Mr. Cooper, Chennai
+Kyyba Innovations
+Facilio Inc., Chennai
+Citi chennai
+Flex, Chennai
+Viewzen Labs Pvt Ltd, Chennai
+Urjanet Energy Solution, Chennai 
+Viasat Inc., Chennai
+Alcatel-Lucent Enterprise, Chennai
+NVIDIA 
+Visa, Bangalore
+Bank of America, Chennai
+Ericsson
+Juniper Networks, Chennai
+Slintel (We're hiring), Chennai
+Fourkites , chennai
+Prodapt, Chennai
+zoho
+https://ssn.almaconnect.com/alumni/companies
+
+Full Creative chennai
+Nuatinx bangalore
+Blackbuck insights
+sapiens
+boeing
+maveric systems
+M2P infotech
+
+thomson reuters
+Nokia
+Fidelity investments
+
+Siemens - Client round cleared
+
+Kalai's Sister-in-law
+10 years of Experience - 28 LPA 
+
+Xoriant - Bangalore
+Concentrix Catalyst - NEW 9 Mar 2022
+
+2 query 2 java program - Morgan's stanley
+emtec bangalore
+synichron
+Teksystems
+Heptagon Tech
+KLA Bangalore - kowshi
+https://www.geeksforgeeks.org/maximum-of-minimum-difference-of-all-pairs-from-subsequences-of-given-size/
+https://leetcode.com/discuss/interview-question/1256258/connected-sum-in-a-graph-amazon-oa
+
+Wissen - kowshi
+	Hackerearth
+		1 table
+		id, name , gender
+		another table
+		child_id , parent_id
+
+
+
+
+https://ssn.almaconnect.com/directory/filter?applied_tags[graduation_year][]=2017
+https://ssn.almaconnect.com/directory/filter/backend-engineering-professionals-16
+https://ssn.almaconnect.com/alumni/companies

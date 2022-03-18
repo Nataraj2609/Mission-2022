@@ -1,0 +1,253 @@
+
+https://www.edureka.co/blog/interview-questions/sql-query-interview-questions#fetchname
+https://artoftesting.com/sql-queries-for-interview
+https://www.interviewbit.com/sql-interview-questions/
+https://www.guru99.com/comparison-between-web-services.html#:~:text=KEY%20DIFFERENCE,stands%20for%20Representational%20State%20Transfer.&text=Comparing%20SOAP%20vs%20REST%20API,can%20make%20use%20of%20SOAP.
+https://www.guru99.com/postgresql-vs-mysql-difference.html#:~:text=KEY%20DIFFERENCE%3A,feature%20like%20JSON%2C%20XML%20etc.&text=PostgreSQL%20is%20complete%20ACID%20compliant,used%20with%20InnoDB%20and%20NDB.
+
+https://start.jhipster.tech/jdl-studio/
+
+
+https://www.javainuse.com/spring/boot-jwt
+https://www.javainuse.com/spring/jwt
+
+
+
+
+One dynamic programming , finding longest common subsequence
+Kadane's algorithm, find largest common substring in an array of strings.
+
+Discussion on projects, questions like reversing a linked list, sort an array of 0's, 1's and 2's in min time complexity, question on sorting a hashmap based on values and comparable interface in java , diff between Hashcode and equals methods and diving deep into that concept with some few examples.
+
+Design an inventory of fruits, where you can check the stock, update the stock, and modify the price.
+
+design snake game
+
+What is a predicate in Java? Can you throw an exception from a predicate?
+Explain wildcard-extends and wildcard-super in Java.
+Mirror image of tree
+implement thread safe without synchronized keyword
+	No need for synchronization at all if you don't have mutable state.
+	No need for synchronization if the mutable state is confined to a single thread. This can be done by using local variables or java.lang.ThreadLocal.
+	You can also use built-in synchronizers. java.util.concurrent.locks.ReentrantLock has the same functionality as the lock you access when using synchronized blocks and methods, and it is even more powerful.
+
+mutable suggest anything that can change, i.e. an int
+
+	int a = 0;
+	System.out.prtinln(a); //prints 0
+	a = 2;
+	System.out.prtinln(a); //now prints 2, so its mutable
+	In java a string is immutable. you cannot change the string value only its reference.
+
+	String s1 = "Hello";
+	System.out.println(s1); //prints Hello
+	String s2 = s1;
+	s1 = "Hi";
+	System.out.println(s2); //prints "Hello" and not "Hi"
+	State is something which an instance of a class will have (an Object).
+
+If an Object has certain values for its attributes its in a diffrent state then another Object of the same class with diffrent attribute values
+
+This round mainly consists of DSA questions
+OOPs concept, Java Collections, Multithreading
+
+Prepare DSA very well, it can turn your interview to an offer !
+
+java executor framework
+
+string anagrams leetcode
+cache eviction
+microservices
+
+Without using collections, lambda or any inbuild function, print the values of hashmap in natural sorting
+Data Structure, problem solving, multithreading, calculate time complexity and few java based question such as LRU cache, custom thread pool , priority queue, spring transaction etc.
+Java Performance tuning
+write a method which takes procedure name as parameter and arguments of the stored procedures in the parameter and method executes the procedure
+Private interface methods in Java 9 behave exactly like other private methods - java 9 feature
+try with resources, how is it different from finally block,
+Program where threads start and end time are given and you have to find at a point of time how many max threads are running
+sql - union Vs union all
+sql - You have to show data from Employee table which is there in two different databases, what would you use - union or join?
+sql - write a query. you have 3 columns FirstName, LastName, Gender. Gender will be male or female. What will be the query to show data in format:
+Mr. Sachin Tendulkar
+What is difference between ioc and di?
+
+1.Write a program to create a deadlock between 2 threads.
+2. Implement a Thread pool
+3.Given a v huge list of integers, multiply every element in the list by 2.(mylti threading)
+4. Java is pass by ref or pass by variable
+5. Diff between final and immutable
+6. Diff between declaring string and stringbuffer as final variables.
+7.Given a table with the following fields
+account-id Trading_Date Stock_name
+1 Find all the frequently traded stocks. Frequently here means, that the stock should have been traded atleast twice in the last 3 days.
+8. Design a system which talks to IRCTC and returns a list of trains from point A to point B
+
+1. Difference between Iterator and for loop
+2. Order of execution of static class level blocks, class level block and constructor.
+3. Which is better interface or 100% Abstract Class and why?
+4. Return statement in try, catch and finally. Which one executes when an exception occurs and what happens to the exception?
+5. Something about Abstract class constructor.
+6. Something about Cloneable Interface.
+
+When does a java static class get loaded/intialized by jvm?
+https://crunchify.com/how-to-create-a-simple-in-memory-cache-in-java-lightweight-cache/
+
+
+
+
+The interview would be based on Problem solving·
+
+	Inheritance, Polymorphism·
+	Java
+	Collections·
+	Exceptions, Generics·
+	Design Principles and Patterns·
+	when to use list vs map·
+	class level collections·
+	idea of using
+	java
+	collections·
+	data structures·
+	Multithreading and concurrency·
+	Code versioning - git·
+	Build management - maven·
+	Eclipse IDE.·
+	final keyword usage·
+	Can you add elements to a final list·
+	JUnit·
+	Java
+	8 Optional·
+	Java
+	8 Stream·
+	Student class coming from a jar file·
+	multithreading·
+	SQL query to print duplicates·
+	Unix·
+	Algorithms·
+	Java
+	8 Features·
+	Data Structures·
+	Database·
+	OOPS Concepts·
+	Java
+	Collections·
+    Design and architecture
+
+
+
+Sql
+Microservice
+Design patterns
+Data structures
+
+
+Coding Interview Problems:
+
+java 8 function is object
+https://javabydeveloper.com/spring-injecting-collections/#:~:text=Spring%20Framework%20supports%20injecting%20Java,Set%20and%20Map%20with%20examples.
+
+https://github.com/richardobiye/carIniheritance/blob/master/CarInheritance.java
+
+
+
+https://leetcode.com/list/xi4ci4ig/
+https://www.programiz.com/java-programming/string
+
+
+
+
+Having a set , convert it to comma seperated string
+Regular Expression
+Abstraction Encapsulation
+Ways of creating String Object
+Immuatable
+Wrapper class
+equals and ==
+heap and stack memory
+break and continue
+final finally finalize
+this vs super
+String pool in heap memory
+Static variables methods
+Inner class
+Array and ArrayList
+Method Hiding overriding static methods
+MultipleInheritance
+MarkerInterface
+Inner class
+Static Inner class
+Ananymous Class
+Ways of creating String Object
+String Pool
+Abstract class vs Interface
+MultipleInheritance
+Exceptions
+
+
+
+
+Java 8
+FunctionalInterfaces
+MethodReferences
+stream API
+
+
+
+
+DesignPatterns:
+SingleTonPattern
+FactoryPattern
+BuilderPattern
+ObserverPattern
+AdapterPattern
+
+
+
+Hibernate
+AutoIncrement the field
+Internal working of Hashmap
+Internalworking of HashSet
+HashTable
+ConcurrentHashMap
+Volatile
+LinkedList types insertion ,deletion
+BinarySearchTrees
+ArrayList Internal working
+Stack -> LinkedList
+Hysterix
+CircuitBreakerPattern
+
+
+
+Graph 
+
+    Traversal
+
+Binary tree
+
+	Problem
+
+	solve
+
+Balanced tree
+
+	AVL tree
+
+
+ ~ GeeksforGeeks must do problems (count - 70)
+
+ leetcode
+
+
+
+Java, collection, spring, rest api, sql
+
+Oauth 2, spring security, Angular, 
+
+
+
+https://mkyong.com/java8/java-8-find-duplicate-elements-in-a-stream/
+https://www.geeksforgeeks.org/rearrange-a-linked-list-such-that-all-even-and-odd-positioned-nodes-are-together/
+https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/
+https://overapi.com/java
