@@ -1,0 +1,429 @@
+Oops - Object,Class,Inheritance, Polymorphism, abstraction, Encapsulation
+Inheritance - types and explanation of types
+mainly Multiple inheritance
+composition Vs Inheritance
+Polymorphism - Method Overloading,Method Overriding,Method Hiding
+Abstraction - Abstarct class Vs Interface
+
+
+
+When to use abstract class when to use interface
+--------------------------------------------
+Static :
+Static method, static block ,static variable,static class
+----------
+final :
+final,finally, finalize()
+immutable class in java
+----------
+Interface :
+Marker Interface , Functional interface & how to create custom functional interface
+
+
+
+Diamond operator ,
+Vararg ,
+Wrapper class and auto boxing ,
+String literal ,String Pool,
+
+
+
+Constant Pool Vs non Constant Pool,
+String Vs String Buffer,String intern, break,continue,
+== vs equal(),
+Generics,
+this(),super()
+Atomic Operation ,Atomic Integer
+Constructor Chaining,Recursive function
+Shallow Copy Vs Deep Copy,
+Singleton Class in java,
+transient Keyword in java
+Parent and Child classes having same data member in Java
+
+
+Inner class :
+Inner class , Method local inner class,Anonymous inner class,static inner class
+---------
+Memory Management :
+Heap Memory , Stack Memory
+Garbage collection
+system.gc ()
+How to manage outofmemory error
+stackoverflow Vs OutOfMemory
+----------
+Exception Handling :
+Exception Hierarchy
+Checked Exception
+Unchecked Exception
+Error
+try,catch,finally, throw,throws
+Custom Exception
+
+
+
+Spring Boot :
+  DI ,Constructor Based DI ,Setter Based DI
+  @Controller Vs @RESTController
+  Profiles in Spring Boot
+  MVC flow ,Spring Vs Spring Boot
+  Spring Boot Starter,Actuator and endpoints
+  @Autowired Vs @Qualifier
+  Lombok @Data like
+  Annotation and custom annotation
+  Interceptor, scheduling
+  ------------
+  Beans :
+  life cycle of Bean
+  Scope of Bean
+  Bean factory
+  ------------
+  Collection & Map :
+  list & linked list and types
+  Arraylist Vs linked list
+  Arraylist internal working
+  HashMap & Hash Set internal implementation
+  HashMap Vs Concurrent HashMap
+  fail-fast Vs fail-safe
+  using Map coding experience
+  -------------
+  Java 8 features :
+  Lambda Expression ,functional interface,stream API ,New Date time API
+  Terminal operation Vs intermediate operation
+  stream type and explanation
+  why we go for new Date time API
+  String Join(),
+  Aggregate Operations in stream,predicate
+  ---------------
+  REST API :
+  GET(),POST(),DELETE(),OPTION()
+  PUT Vs PATCH
+  REST FLOW Design
+  Spring Boot state or stateless
+  How to manage Passwords in REST
+  Idempotent
+  --------------
+  Hibernate :
+  ORM,Hibernate Architecture, Hibernate state
+  Fetch Type(Lazy&Eager)
+  Cascade Property
+  @generateValue Types
+  Entity Relationship (@one-to-may like)
+  diff b/w get(),load()
+  caching Mechanism
+  1st Level cache ,2nd level cache
+  session,session factory,
+  criteria Query,Transaction
+  Open session(),get session ()
+  @Query
+  SQL Vs HQL
+  -------------------
+  Threading :
+  thread Vs Process
+  what r all the ways to create threads
+  Executor service class
+  Thread pool
+  synchronization vs locking
+  thread life cycle and state
+  create thread using java 8 features
+  Volatile keyword in java
+  --------------
+  Microservices :
+  Advantage and Disadvantage of microservices
+  Service Discovery
+  API Gateway - filter()
+  Zuul proxy
+  load balancing
+  ribbon load balancing
+  hystrix circuit breaker pattern
+  ----------------
+  Design pattern and Ds
+  
+  
+  
+  Explain about the memory leakage in Substring.
+  What are all the new features in Java 8
+  What is functional interface
+  What is lamda func
+  Hashmap working in java 8 vs old version
+  Memory management improvements in JAVA 8
+  What is consumer an supplier
+  Stream vs Parallelstream
+  Normal loop vs stream
+  Interface in java 8 vs in old versions
+  Iterator vs spliterator
+  Advantage of using optional.
+  Map vs flatmap
+  Explain predicate
+  Nashorn in Java8
+  
+  What is @controller,@restcontroller,@configration,@service,@repository,@autowired,@bean,@Qualifier
+  
+  
+  In Java , what is string?
+  Why string is immutable?
+  Explain final keyword?
+  Explain static keyword?
+  How hashmap works?
+  How array list works?
+  
+  
+  Comparable vs Comparator
+  Iterator vs Enumerator
+  Where (in which situation) to use Set, HashMap, List
+  Java 8 streams, terminal methods, intermediate methods
+  how to convert a list to set, map to list, etc
+  Internal working of Collections (Eg. HashMap, size, load factor)
+  Optional interface, methods in it. (ispresent, ifpresent, ofnullable, orElse, orElsethrow, etc.) along with their return types
+  Flat map concept. in which scenario to use flatmaps
+  map() vs flatmap()
+  Fail fast iterator, fail safe iterator, concurrent modification exception
+  default method in java 8, functional interface in java 8, lambda exp, etc
+  Searching and sorting algorithms with time complexity
+  How to analyze time complexity for a program
+  Microservice questions, architecture, advantages, etc
+  Spring boot concepts
+  Core java questions
+  Data structures (Stack,queue, linkedlist)
+  Problems may be given and asked to be solved during face to face.
+  Sample programs:
+  LeetCode Problems: https://leetcode.com/problemset/all/
+  
+  String 
+  https://leetcode.com/problems/decode-ways/
+  https://leetcode.com/problems/longest-substring-without-repeating-characters/
+  
+  Searching
+  https://www.geeksforgeeks.org/find-first-repeating-element-array-integers/
+  https://www.geeksforgeeks.org/fibonacci-search/
+  Sorting
+  
+  
+  
+  
+https://www.geeksforgeeks.org/find-whether-an-array-is-subset-of-another-array-set-1/
+  https://www.geeksforgeeks.org/find-missing-elements-of-a-range/
+  https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/
+  
+  
+  
+◦  Stack using Linked list
+◦  Convert the same into circular linked list
+◦  Internal implementation of hashmap
+◦  Hashset implementation
+◦  Qualifier
+◦  Concurrent modification exception
+◦  Iterator
+◦  What happens when hashmap is full
+◦  Executor service
+◦  Java program and different approach for the same program and time complexity
+◦  Junit - @beforeclass and @test
+  
+  
+  
+  Topics to prepare
+  
+  Java 8:
+  -         Streams
+  -         Lamda expressions
+  -         Optional interface
+  -         Flaptmap, map
+  -         Terminal methods, intermediate methods
+  -         Default method
+  -         Functional interface
+  Collections:
+  -         Internal working of Collections (Eg.: HashMap), size, load factor
+  -         Which collection to use for a given scenario
+  -         Iterator (Fail fast, fail safe)
+  -         Comparator vs Comparable
+  Data Structures and Algorithms:
+  -         Sorting algorithms with time complexity
+  -         Searching algorithms with time complexity
+  -         Given a problem, you should be able to derive an optimal solution and analyze its time complexity
+  -         Data structures (LinkedList, Stack, Queue, Set, etc.) and its sample implementation (Eg. Inserting a node to a linkedlist)
+  Microservice:
+  -         Spring Boot topics
+  -         MVC Architecture
+  REST API
+  Hibernate
+  
+  
+  Like core java, and u have to come up with an optimal solution
+  
+  
+  Linkedlist and stack using array kaetanga
+  
+  
+  Binary Search Tree kaetanga, rotation .. Linked list,stack using linked list
+  
+  
+  
+  
+https://www.javabrains.io/courses/springboot-quickstart
+  https://www.youtube.com/watch?v=xkKcdK1u95s&list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn
+  https://www.youtube.com/watch?v=qVTAB8Z2VmA&list=PLsyeobzWxl7ps4Z1C4VMtvZEx5-PgyoYI
+  
+  https://www.guru99.com/restful-web-services.html
+  
+  Explain about the memory leakage in Substring.
+  What are all the new features in Java 8
+  What is functional interface
+  What is lambda func
+  Intermediate functions
+  Terminal Functions
+  Hashmap working in java 8 vs old version
+  Memory management improvements in JAVA 8
+  Stream vs Parallelstream
+  Normal loop vs stream
+  
+  Interface in java 8 vs in old versions
+  Iterator vs spliterator
+  Advantage of using optional. - https://mkyong.com/java8/java-8-optional-in-depth/
+  Map vs flatmap - https://javarevisited.blogspot.com/2016/03/difference-between-map-and-flatmap-in-java8.html
+  Explain predicate
+  Nashorn in Java8 - https://www.tutorialspoint.com/java8/java8_nashorn_java_script.htm
+  
+  Spring MVC - https://javarevisited.blogspot.com/2017/06/how-spring-mvc-framework-works-web-flow.html#axzz6eIfeivrW
+  https://www.linkedin.com/pulse/difference-between-inject-vs-autowire-resource-pankaj-kumar
+  https://stackoverflow.com/questions/3153546/how-does-autowiring-work-in-spring
+  MapReduce
+  How diamond problem solved in Java 8
+  Spring Boot vs spring mvc
+  Ioc vs di -
+  What is IOC and DI - https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring
+  What is @controller,@restcontroller,@configration,@service,@repository,@autowired,@bean,@Qualifier
+  How spring MVC works? - https://www.upgrad.com/blog/15-spring-mvc-interview-questions/
+  Exception handling
+  Try with resources
+  Beanfactory vs application context - https://www.baeldung.com/spring-beanfactory-vs-applicationcontext
+  What is webservices - https://www.guru99.com/web-service-architecture.html
+  In Java , what is string?
+  Why string is immutable? - https://www.baeldung.com/java-string-immutable
+  Explain final keyword? - https://www.baeldung.com/java-final
+  Explain static keyword? - https://www.baeldung.com/java-static
+  How hashmap works?
+  How array list works?
+  What is restapi - https://www.softwaretestinghelp.com/restful-web-services-interview-question/
+  Rest vs soap
+  Hashmap internal works
+  Type of dependency injection
+  @controller vs @restcontroller
+  Type of request rest support
+  Types of scopes in spring
+  Different bt final and immutable in java - https://stackoverflow.com/questions/34087724/what-is-the-difference-between-immutable-and-final-in-java
+  How to Create an Immutable Class in Java
+  Binary Tree vs Binary Search Tree
+  idempotency - https://restfulapi.net/idempotent-rest-apis/
+  sorting algorithm - https://www.interviewbit.com/tutorial/sorting-algorithms/
+  Types of cloning
+  TreeSet Advantages
+  Singleton Class
+  Immutable
+  Comparator vs Comparable
+  String buffer vs String Builder
+  
+  https://www.quora.com/What-is-the-best-tutorial-site-for-Spring-MVC
+  https://www.baeldung.com/spring-boot-interview-questions
+  https://www.javabrains.io/courses/springboot-quickstart
+  
+  
+  
+  
+How do you find the issue if there is some bug/issue in production environment.    
+    
+  ====================================  Companies ==================================  
+How to create custom exception?    Altimetrik
+Are custom exceptions checked or unchecked?    Altimetrik
+How to create unchecked custom exception?  https://www.baeldung.com/java-new-custom-exception  Altimetrik
+"Encapsulation. I said about protecting it's access from outside.
+We can implement getters and setters. what is differenece between accessing directly and accessing using getters and setters?
+actual purpose of getters and setters."    Altimetrik
+Can we create object for abstract class    Altimetrik
+Difference between default scope and protected scope in java    Altimetrik
+
+
+
+[Forwarded from Ivtl Vivek Dev HR]
+"[1,0,1,0,0,1]
+Given an array how do you move all the 0's to the left and all the 1's to the right"    Athena 1st Tech        
+"A series like below have to be generated from 10 to 100.
+12,12,21,23,32,..."    Athena 1st Tech        
+How to handle unchecked exceptions in the java (or) spring in your application.    Athena 1st Tech        
+What are the terms you have used in APIs    Athena 1st Tech        
+When do you use POST and when do you use PUT    Athena 1st Tech        
+When do you use Patch    Athena 1st Tech        
+"Lets say we have 25 fields in a form and edit button above it. If user clicks edit and modifies two values and clicks save.
+How do you use Patch in this case? The table you are going to save contains 25 columns.
+"    Athena 1st Tech        
+Stages of jenkins  https://www.lambdatest.com/blog/jenkins-pipeline-tutorial/  Athena 1st Tech        
+How do you deploy your product to prod environment.  https://www.youtube.com/watch?v=m0a2CzgLNsc  Athena 1st Tech        
+When you are having an issue in production at 2.00 a.m how will you check that issue.    Athena 1st Tech        
+How will you do Performance Improvement  https://dzone.com/articles/fighting-java-performance-issues-in-production-sys  Athena 1st Tech        
+How do you check the time taken for some 20 apis    Athena 1st Tech        
+Review that interviewer told me            
+You have to know a lot more about performance tuning            
+using AOP  https://www.youtube.com/watch?v=QdyLsX0nG30&list=PLE37064DE302862F8&index=1&t=629s          
+using jump points or jump points            
+Explain plan            
+disk io            
+read write            
+You need to know about overall system how it works            
+You need to know about how deployments are done and mainly how you will resolve when an issue arises in production.
+
+
+https://www.lambdatest.com/blog/jenkins-pipeline-tutorial/?utm_source=Linkedin&utm_medium=Group&utm_campaign=sa-02-Df-78-2072021&utm_term=jenkinspipeline
+
+
+
+What are different Connectors      
+      
+ClassNotFoundException vs NoClassDefFoundError  https://www.baeldung.com/java-classnotfoundexception-and-noclassdeffounderror  Ericcson 1st Round  
+Can we use try block without catch block  https://java2blog.com/can-we-have-try-without-catch-block-in-java/  Ericcson 1st Round  
+What are inbuilt functions for using callbacks in javascript    Ericcson 1st Round  
+How to analyse performance using jmap    Ericcson 1st Round  
+Difference between throw and throws    Ericcson 1st Round  
+run time polymorphism    Ericcson 1st Round  
+What are the ways to create object in java without new key word    Ericcson 2nd Round  
+How cloning of an object works    Ericcson 2nd Round  
+What are the things needed to do to create custom annotation?    Ericcson 2nd Round  
+What is autoclosable.     Ericcson 2nd Round  
+What is try with resources    Ericcson 2nd Round  
+What happens if we clone singleton object?  https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/#:~:text=Cloning%3A%20Cloning%20is%20a%20concept,class%20is%20no%20more%20singleton.  Ericcson 2nd Round  
+What is classLoading?    Ericcson 2nd Round  
+How maven works    Ericcson 2nd Round  
+"Create Room class. I have created with some datamembers and param contructor.
+He asked me how to make this extendable? What if i asked to add more datamember after that.
+Will you create new constructor for each change? this is wrong.
+Kindly check builder design patter. How will you solve this using builder design pattern."    Ericcson 2nd Round  
+"What is the contract between hashcode and equals?
+Do we need to override both?"    Ericcson 2nd Round  
+Internal working of hashset    Ericcson 2nd Round  
+create 100 threads and make them print some list of string asynchronously    Ericcson 2nd Round
+
+
+
+https://www.baeldung.com/java-classnotfoundexception-and-noclassdeffounderror
+
+
+
+What is API Gateway    Mind Tree Module Lead  
+What is Socket Breaker    Mind Tree Module Lead  
+How will you monitor if some microservices went down    Mind Tree Module Lead  
+Difference between abstract class and interface    Mind Tree Module Lead  
+Comparator and Comparable    Mind Tree Module Lead  
+What are the need of streams?    Mind Tree Module Lead  
+I am having two classes A and B. How to compare these two classes?    Mind Tree Module Lead  
+What is the difference bw comparator and comparable?    Mind Tree Module Lead
+
+
+
+Collections that are thread safe
+"What will you choose between ArrayList and Hashset 
+when we need to add data to collection"
+  
+Association, Composition and Aggregation in Java
+Coupling and Cohesion
+
+
+https://www.geeksforgeeks.org/find-whether-an-array-is-subset-of-another-array-set-1/
+https://leetcode.com/problems/decode-ways/
+
