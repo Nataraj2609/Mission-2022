@@ -1,0 +1,19 @@
+<p>employee-dashboard works!</p>
+<table border="1">
+    <thead></thead>
+    <tr>
+      <th>Name</th>
+      <th>ID</th>
+      <th>Designation</th>
+      <th>Salary</th>
+      </tr>
+    
+    <tbody>
+        <tr *ngFor="let employee of employees">
+            <td>{{employee.name}}</td>
+            <td>{{employee.empId}}</td>
+            <td>{{employee.designation}}</td>
+            <td>{{employee.salary}}</td>
+        </tr>
+    </tbody>
+      </table>

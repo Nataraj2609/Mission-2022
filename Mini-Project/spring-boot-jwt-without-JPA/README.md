@@ -26,6 +26,9 @@ Create JwtAuthenticationController -
 
 Create model - JwtRequest, JwtResponse
 
-	JwtRequestFilter - add this class in config
+	JwtRequestFilter - add this class in config -extends the Spring Web Filter OncePerRequestFilter class
+
+JwtAuthenticationEntryPoint - extend Spring's AuthenticationEntryPoint class and override its method commence
 
 	
+
