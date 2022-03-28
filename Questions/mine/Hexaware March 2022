@@ -50,3 +50,5 @@ OBJECT Will be called
 By Using Stream API - Count the number of repeated string values from a given list (e.g Java, Oracle, Angular, Java, Class) (Expected O/P: Java:2, Oracle:1, Angular:1, Class:1)
 
 By Using Stream API - Given Integer List<5, 3, 2, 1, 4> 1] Print Even numbers (Expected O/P: 2, 4) 2] Square of output numbers from step 1 (Expected O/P: 4, 16) 3] Addition of those two number (Expected O/P: 20)
+
+https://www.baeldung.com/jpa-composite-primary-keys
