@@ -1,0 +1,31 @@
+Angular Java Spring boot Microservice Hibernate JWT 
+
+
+
+Hibernate - id, name are composite key How to fetch values of name
+https://stackoverflow.com/questions/3585034/how-to-map-a-composite-key-with-jpa-and-hibernate
+
+Aws - Ec2, s3, Lambda
+
+Angular - observables - what are the operators you can apply on it RxJs
+Error handling in Frotend app
+JWT - localstorage, sessionstorage, 
+
+Java 8 - Stream, functional interface How to implement custom one, 
+
+Database - select * from a,b => Resultset ? [IT WILL GRAB ALL THOSE RECORD] CARTESIAN
+
+Spring boot Annotations, Microservice, Junit, Triggers, Procedures, select n max salary generic, 
+
+
+
+
+[11:04 26 March 2022] Bhavin Patel 15 YEARS Experienced
+
+Three Overloaded method as below: Method(Integer a, Integer b) { SOP("Integer"); } Method(Object a, Object b) { SOP("Object"); } Method(String a, String b) { SOP("String"); } Calling method by passing null value as an argument below: Method(null, null); Which method will get call and print SOP[System.out.println()]?
+
+OBJECT Will be called
+
+By Using Stream API - Count the number of repeated string values from a given list (e.g Java, Oracle, Angular, Java, Class) (Expected O/P: Java:2, Oracle:1, Angular:1, Class:1)
+
+By Using Stream API - Given Integer List<5, 3, 2, 1, 4> 1] Print Even numbers (Expected O/P: 2, 4) 2] Square of output numbers from step 1 (Expected O/P: 4, 16) 3] Addition of those two number (Expected O/P: 20)
