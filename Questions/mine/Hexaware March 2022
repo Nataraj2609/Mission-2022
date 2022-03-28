@@ -1,7 +1,28 @@
 Angular Java Spring boot Microservice Hibernate JWT 
 
+MCQs
+-------------------------------------------------------------------------------------------------------------------------------------------
+sw.omit in angular - service workers bypass
+getbean() 
+j2ee components
+transaction are nt supported in Mysql . Reason??
+rest api expected is xml but sent was json response code? Error code?
+
+List1
+List2
+Collections.copy(L2, L1)
+print L2
+
+SpringBootServletInitializer in Spring boot main app -> used to have embed tomcat
+
+To bypass the service worker, set ngsw-bypass as a request header, or as a query parameter. (The value of the header or query parameter is ignored and can be empty or omitted.)
+
+reactive-forms for validation
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------
+F2F
+-------------------------------------------------------------------------------------------------------------------------------------------
 Hibernate - id, name are composite key How to fetch values of name
 https://stackoverflow.com/questions/3585034/how-to-map-a-composite-key-with-jpa-and-hibernate
 
