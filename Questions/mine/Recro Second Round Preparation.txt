@@ -1,0 +1,20 @@
+Hello Nataraj! 
+
+This is Ayani Pathak from Recro. 
+
+As discussed with you on the phone call you can prepare the following topics for the interview round. 
+
+OOPS Concepts ( Solid principles, polymorphism, immutable class, etc) 
+
+Core Java(Collections, multithreading, garbage collections, etc) 
+
+Frameworks (Spring/Springboot/Hinernate, dependency injection, beans, JPA repository, CRUD repository, etc) 
+
+Api, microservices, database concepts like data handling, modeling, optimization, etc
+ Design patterns
+
+Please prepare these topics as good as you can to make your interview round easy!
+
+I hope this works! 
+
+Thank you!
