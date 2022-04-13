@@ -1,0 +1,229 @@
+
+
+https://stackoverflow.com/questions/22685930/implementing-two-interfaces-with-two-default-methods-of-the-same-signature-in-ja
+
+==> OUT 
+
+ interface A {
+	default demo() {
+	}
+}
+interface B {
+	default demo() {
+	}
+}
+class C implements A, B {
+	
+}
+
+write lambda code for finding first element from string arraylist which contains "hello"?
+
+
+listObj.stream()
+		.filter(str -> str.contains("hello")).findFirst();
+
+@RestController
+@RequestMapping("/v1/update")
+class Customer{
+
+@Autowired
+CustomerService customerService;
+	
+	@PutMapping("/{id}")
+	public ResponseEntity<CustomerModel> updateCustomer
+		(@PathVariable int id, @RequestBody CustModelToBeUpdaeted c){
+			return customerService.updateCustomer(id, c);
+		}
+}
+
+@Service
+class CustomerService{
+	@Autowired
+	CustomerRepository customerRepository;
+
+
+	public updateCustomer
+
+}
+
+@Repository
+public interface CustomerRepository implements CrudRepository<id ,Customer);
+
+Dependency Injection
+
+
+
+Select salary from emp order by emp.salary desc limit N; // N=2 
+
+
+Select salary from emp where salary < (Select salary from emp order by emp.salary desc);
+
+bookmyshow tables design - what are the tables needed
+==> OUT 
+
+
+
+Count Pairs whose sum is equal to X in LinkedList:
+L1 = 1->2->3->4->5->6 O(n)
+L2 = 11->12->13 O(m)
+X = 15
+Output: 3
+
+L1 l1_head
+L2 l2_head
+
+while(l1_head!=null){
+	
+
+}
+==> OUT 
+
+https://www.geeksforgeeks.org/count-pairs-two-linked-lists-whose-sum-equal-given-value/
+
+
+Solid principles - liskov explain
+
+polymorphism
+
+overriding
+
+immutable class
+
+@Bean where we will use>?
+
+Types of Outer joins
+==> OUT 
+
+findAny() will returns Optional
+==> OUT 
+
+
+Wissen Technologies
+
+Skills: Java, Spring boot, Rest, API and AWS (Knowledge or Deployment purpose)
+
+
+- Strong written/verbal communication skills
+- Minimum 3 to 8 Years of Core Java Programming with Collections Framework, Concurrent Programming, Multi-threading
+- Good knowledge of the JVM with an understanding of performance and memory optimization.
+- Extensive and expert programming experience in JAVA programming language (strong OO skills preferred).
+- Excellent knowledge on collections like, Array List, Vector, LinkedList, Hashmap, HashTable, HashSet.
+- Exercised exemplary development practices including design specification, coding standards, unit testing, and code-reviews.
+- Expert level understanding of Object Oriented Concepts and Data Structures
+- Good experience in Database (Sybase, Oracle or SQL Server) like indexing (clustered, non-clustered), hashing, segmenting, data types like clob / blob, views (materialized), replication, constraints, functions, triggers, procedures etc.
+
+
+Largest sum contiguous subarray
+
+Docker - Openshift How to deploy an image
+
+Jenkins - Ci/CD Pipeline
+
+Hi Nataraj,
+
+Please have a look into the detailed feedback of your interview conducted at Recro!!
+
+
+
+Overall Comments:
+Candidate needs to work more on:
+
+1. Problem Solving
+
+2. Database concepts & Modeling
+
+3. Design patterns
+
+4. Core Java
+
+5. Spring Boot (More Practical knowledge)
+
+
+
+CORE JAVA (Collections, Multithreading, Garbage collections):
+
+1. Internal working hashmap
+- Candidate failed to explain it properly
+
+2. interface A {
+default demo() {
+}
+}
+interface B {
+default demo() {
+}
+}
+class C implements A, B {
+}
+
+Find a problem  in the above program and resolve it.
+- Candidate found the issue but failed to resolve it
+
+3. write lambda code for finding the first element from string arraylist which contains "hello"?
+- Candidate has written correct code
+
+4. Comparable vs Comparator
+- Candidate failed to explained it properly
+
+Frameworks (Springboot / Spring/ Hibernate):
+1. What dependency injection
+- Candidate explained it partially
+
+2. How many ways to inject beans?
+- Candidate explained it correctly
+
+3. JPA Repository vs CRUDRepository
+- Candidate explained it correctly
+
+4. what is @Bean annotation
+- Candidate explained it partially
+
+Database Concepts(Modeling, Data Handling, Optimization etc):
+1. Write nested sql query
+- Candidate has written correct query
+2. Inner join vs outer join
+- Candidate explained it partially
+4. List out table names that we can use in BOOK MY SHOW APP.
+- Candidate failed list out few required tables
+
+Problem solving:
+1. Count Pairs whose sum is equal to X in LinkedList:
+L1 = 1->2->3->4->5->6
+L2 = 11->12->13
+X = 15
+Output: 3
+- Candidate has given brute force approach
+
+Design Patterns:
+1. Drawbacks of Singleton pattern
+- Candidate failed to explain it
+
+Regards and well wishes,
+Sweta Priyam
+TA Executive
+
+-------------------------------------------------------------------------------------------
+
+// 4 Days
+
+BookMyShow
+
+
+sql
+entity
+relationship
+controller
+service
+repo
+
+Procedure
+triggers
+joins
+
+streams
+optional
+
+Deployment - Docker image in an openshift
+Multi-threading
+
+clob / blob
