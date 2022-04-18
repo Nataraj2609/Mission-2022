@@ -1,0 +1,25 @@
+TCS Telephonic interview
+
+https://fullstackdeveloper.guru/2020/09/29/how-to-retry-service-calls-in-spring-boot/
+
+filter
+	then map
+
+sorting in stream using comparator
+
+can we use comparable within stream sort?
+
+service registry in microservices
+
+rest Template 
+
+	cloud, jaegar
+
+Global Exception Handing - ExceptionHandler & ControllerAdvice
+
+https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html#axzz64YOHJ2TL
+
+spring profile, config server
+
+@Retryable - how to retry failed External api call using restTemplate for max 2 attempts with delay of one second
+
