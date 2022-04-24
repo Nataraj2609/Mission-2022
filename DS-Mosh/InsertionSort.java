@@ -6,6 +6,7 @@ import java.util.Arrays;
  *Sorted Array <---> Unsorted array
  *
  *Compare CURRENT element at unsorted array with previous positions at sorted array and COPY till perfect place is found accordingly for all the elements starting with index 1
+ * Time Complexity: O(n^2)
  */
 public class InsertionSort {
     public static void main(String[] args) {
