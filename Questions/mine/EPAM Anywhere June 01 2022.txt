@@ -1,0 +1,80 @@
+
+Round lasted for 43 mins - 
+
+By https://www.linkedin.com/authwall?trk=gf&trkInfo=AQFPoI2qGcL1VAAAAYEemR2AJHyMT2EGKGV0kHH5yNM-_BY7Wng8S9C4bFusJ--YGb-mrPw2dBlODY9cUABPUMgzb2CSGfRiiIpy0eyBlpJrwtfz7zbTJLfrZLnQ0b1PlYtaWYo=&original_referer=&sessionRedirect=https%3A%2F%2Fin.linkedin.com%2Fin%2Fnagendra-prasad-bandaru
+
+Functional interface
+stream
+
+
+
+Math::Random
+
+
+public class TestClass { 
+	public static void main(String[] args) { 
+	     someMethod(null); 
+	} 
+public static void someMethod(Object o) { 
+	System.out.println("Object method Invoked"); 
+} 
+public static void someMethod(String s) { 
+	System.out.println("String method Invoked"); 
+} 
+} 
+
+
+INPUT2 = "ABCD12%34#22A"
+
+
+Expected output2 = "A22432%1D#CBA"
+
+
+
+select salary from emp order by desc limit 1 offset 3;
+
+
+@Test(expected = NPE.class) (How to capture a Execption in Junit and test it)
+
+@Mock - 
+@testContainers - 
+@InjectMock - 
+@spy 
+
+Stopping vs terminating EC2
+EC2 General purpose on Demand and so on.. 
+
+Elasticity Vs scalability
+
+VPC 
+
+IAM - Security guidelines you should stick to while implementing Ec2
+
+put vs patch
+
+Qualifier vs Primary
+
+App context vs Bean Factory
+
+12 factors of microservices
+
+Monolithic into microservice
+
+Kafka
+
+Java Program to Print 10 Random Numbers
+
+https://javadiscover.blogspot.com/2018/07/how-to-reverse-string-without-special.html
+
+INPUT2           = "ABCD12%34#22A"
+Expected output2 = "A22432%1D#CBA"
+
+
+Address immutable class is there
+you need to use it in your Employee class, 
+
+---> sol: Do deep cloning/initialization
+
+Collection vs stream
+
+String vs Sting Builder vs String buffer
