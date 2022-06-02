@@ -78,3 +78,7 @@ you need to use it in your Employee class,
 Collection vs stream
 
 String vs Sting Builder vs String buffer
+
+map vs flatMap in stream
+
+@Conditional in spring boot?
