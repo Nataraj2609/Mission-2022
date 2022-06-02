@@ -80,5 +80,28 @@ Collection vs stream
 String vs Sting Builder vs String buffer
 
 map vs flatMap in stream
-
+---------------------------------------------------------------------------------------------
 @Conditional in spring boot?
+
+1. Shallow Copy Vs Deep Copy & Implementation
+2. Co-varient Return Types
+3. Collection
+- For maintaining order in map -> LinkedHashMap
+- Concurrent HashMap
+- Problem where we need sort for custom object --> Override Equals And HashCode
+4. try-with-resources with implementation
+5. SOLID principles with example
+
+# Java 8
+- Parallel Stream & its pros and cons
+
+# Spring Boot
+- Profiling
+- Saga Pattern for distributed transactions -- cache concept
+
+# Microservices
+- On Gateways, Discovery server ---> We use Eureka
+- Hsytrix etc.. --> Fault tolerance
+
+# Program
+- Find Cube of number then filter total > 100 & then find its average
