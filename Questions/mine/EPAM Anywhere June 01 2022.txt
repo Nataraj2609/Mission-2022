@@ -29,7 +29,7 @@ INPUT2 = "ABCD12%34#22A"
 
 Expected output2 = "A22432%1D#CBA"
 
-
+Finding Third max salary in SQL - I wrote it wrong - sol: >> order by salary desc limit 1 offset N-1 ; N = 3
 
 select salary from emp order by desc limit 1 offset 3;
 
