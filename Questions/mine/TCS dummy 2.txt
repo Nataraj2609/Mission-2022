@@ -56,3 +56,30 @@ Ans: saf
 
 
  :core java, Spring, hibernate
+ 
+ 
+This is Nataraj. I am a Backend Engineer with 4.8 years of experience primarily worked on Java 8 , Spring boot.
+
+At Present, I am working as a Senior software engineer internally at Ideas2IT Tech and acting as a Senior consultant for Us Healthcare Tech Netsmart. 
+
+  Domain- Healthcare
+
+ The Product we are working on is myAvatar - EHR platform, where it is a migration project - legacy cache code to Java code
+
+ Microservice - Servicy discovery
+ 				Intercomm call - RestTemplate
+
+ Rest API
+ 			Java
+ 			Hibernate
+ 			Spring boot
+
+ 			Junit 
+ 			Integration tests
+
+ 			Docker
+ 			Openshift
+
+ 			Old one - Redis Write through
+
+ 
