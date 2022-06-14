@@ -1,0 +1,58 @@
+
+ | 4) Find the largest 4 digit number, which will be exactly divisible by 88?
+ | 
+ | 1. 9768
+ | 2. 9988
+ | 3. 9944 
+ | 4. 8888
+
+
+9999/88 = 55 Remainder
+9999-55 = 9944
+
+
+1) If a bulb in a room flashes on every 9 seconds, how many times will it flash in ¾ of an hour?
+ | 
+ | 1. 301
+ | 2. 300
+ | 3. 250
+ | 4. 401
+
+ 3/4 * 60 = 3 * 15 = 45 * 60 = 
+
+ 45 * 60
+
+  00
+270
+2700 / 9 = 300
+
+
+ | 2) Which will be the next term in the series: 3, 4, 6, 9, 13,_______
+ | 
+ | 1. 16
+ | 2. 15
+ | 3. 18
+ | 4. 17
+
+Ans: 18
+
+ | 5) If in some code language,
+ | 
+ | i. Guda  means  water
+ | ii. Pin gola means Overcast sky
+ | iii. Pin saf  means  blue sky
+ | Then, which of the following word means BLUE?
+ | 
+ | 1. bUKA
+ | 2. saf
+ | 3. Guda
+ | 4. Pin
+ | 
+
+Ans: saf
+
+ vskills
+ Coding core java practice tests 15 Ques - 9 answered
+
+
+ :core java, Spring, hibernate
