@@ -1,0 +1,795 @@
+
+
+
+https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+https://www.oodesign.com/dependency-inversion-principle.html
+https://www.geeksforgeeks.org/quick-sort/
+
+https://github.com/Nataraj2609/Mission-2022/blob/main/Questions/mine/Recro%20Second%20Round%20Preparation.txt
+
+https://github.dev/Nataraj2609/i2i_netmed_backup/tree/master/patient-module
+https://www.baeldung.com/spring-programmatic-transaction-management#transaction-template
+https://www.baeldung.com/the-persistence-layer-with-spring-and-jpa
+
+https://www.studytonight.com/post/load-balancing-spring-boot-microservices-using-netflixs-ribbon
+https://www.baeldung.com/mockito-verify
+
+
+https://data-flair.training/blogs/java-interview-questions-and-answers/#:~:text=The%20non%2DUnicode%20letter%20characters,1st%20character%20of%20an%20identifier.
+https://codingcompiler.com/accenture-java-interview-questions/
+
+
+https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html#axzz7QPdRFVQM
+https://medium.com/javarevisited/internal-working-of-hashmap-in-java-97aeac3c7beb
+https://www.w3schools.com/sql/sql_syntax.asp
+
+https://www.baeldung.com/java-optional-return
+https://www.baeldung.com/java-filter-stream-of-optional
+https://www.baeldung.com/java-optional-or-else-optional
+https://baeldung-cn.com/java-optional-return
+-------------------------------------------------------------------------------
+https://igotanoffer.com/blogs/tech/linked-list-interview-questions
+
+
+
+
+https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/
+https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/
+https://www.geeksforgeeks.org/segregate-even-and-odd-elements-in-a-linked-list/
+https://www.geeksforgeeks.org/reverse-a-linked-list/
+https://www.geeksforgeeks.org/intersection-of-two-sorted-linked-lists/
+
+
+
+Dsa course
+
+https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p
+
+https://www.youtube.com/c/Pepcoding/videos
+
+Java + DSA
+
+https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
+
+
+
+
+🔵Spring Framework Basics
+Why Spring Framework?
+Features and Advantages of Spring Framework.
+Spring Bean Lifecycle
+Dependency Injection
+Different ways to configure Spring application
+
+🔵Spring AOP
+What is Aspect Oriented Programming (AOP)?
+Understanding AOP with different real-world Examples
+
+🔵Spring Boot
+What is Spring Boot?
+Advantages of Spring Boot
+Spring Initializr
+Spring Boot Starters
+Creating REST APIs with Spring Boot
+Spring Boot DevTools
+Exception handling
+Logging in Spring Boot.
+Creating Different Layers of the Application
+Managing Configuration
+Managing Profiles
+Spring Boot Actuator
+Custom Actuator Endpoints and managing endpoints.
+
+🔵Unit Testing (Junit and Mockito)
+What is Junit
+Important of Unit testing and Integration Testing
+Implementing Unit Testing
+Implementing JUnit and Mockito for different Spring Boot Layers
+
+🔵 Spring Data JPA
+Importance and Advantages of Spring Data JPA
+Annotations
+Hibernate validations
+Database Migration
+Entity Relationships
+Transaction Management
+Repositories and Entity Managers
+
+🔵 Spring Security
+Implementing Spring Security with Spring Boot
+What is OAuth 2.0 and OpenID Connect?
+Implementing OAuth 2.0 with Spring Security and Spring Boot
+Implementing Custom Auth Server, Resource Server, and Clients.
+
+
+
+Basic Most asked Java Developer Interview Questions for Freshers:-
+
+1) What are the features of Java Programming Language?
+2) What is the importance of the main() method in Java?
+3) What is the difference between path and classpath variables?
+4) Is Java Pass By or Pass By Reference?
+5) What is the final Keyword in Java?
+6) What are the access modifiers in Java?
+7) What is a static import?
+8) What is Enum in Java?
+9) What is Composition in Java?
+10) What is the Java Reflection API?
+11) What is marker interface?
+12) What is the difference between the user thread and daemon thread?
+13) What is CountDownLatch in Java?
+14) What is Compare and Swap (CAS) algorithm?
+15) What is the volatile keyword in Java?
+16) What is the Java timer class? How to schedule a task to run after the specific interval?
+17) How to write a custom exception in Java?
+18) What is OutOfMemoryError in Java?
+19) Can we have an empty catch block?
+20) What happens when an exception is thrown by the main method?
+21) What is JDBC API and when do we use it?
+22) What are the different types of JDBC drivers?
+23) What is JDBC ResultSet?
+24) What is “dirty read” in JDBC? Which isolation level prevents dirty read?
+25) What is 2 phase commit?
+
+
+1-field injection is not recommended.
+
+Immutable object shouldn't be possible to modify after it's constructed. Spring injects autowired private field after the object has been constructed. It's contradicting the immutability principle, so immutability is therefore broken.
+
+https://thorben-janssen.com/hibernate-tips-how-to-delete-child-entities/
+Associations that are specified as OneToOne or OneToMany support use of the orphanRemoval option. The following behaviors apply when orphanRemoval is in effect
+
+
+Glassdoor
+Fishbowl
+Linkedin
+Naukri
+instahyre
+
+
+https://www.fishbowlapp.com/post/626eb9aeef4efe0027f64723/comment/6272b6e8a1c0cc0028826a52
+https://www.fishbowlapp.com/post/what-was-you-salary-5-years-back-and-nowall
+
+
+Offer from Freshworks : 30 base + 20 retention bonus( 10 lacs in 1st month, 5 after 1 year, 5 after 6 months)
+ 6 years YoE
+ 
+
+Views
+Procedures
+Functions
+Cursors
+
+Joins
+
+Mysql in-built functions
+
+https://leetcode.com/discuss/interview-question/1539840/crossover-for-work-online-coding-round-70-minutes-4-problems-refused
+https://leetcode.com/list/e55d9ob1/
+
+---------------------------------------------------------------------------------------------------
+
+Skills And Attributes For Success
+
+Mandatory:
+Experience in Java 8 and above.
+Experience in REST APIs and Spring framework/Spring boot with JPA, Hibernate.
+Strong in SQL with experience in SQL Server/Oracle/any other RDBMS.
+Knowledge on object-oriented programming, SOLID principles, and design patterns.
+Experience with UML diagrams – class diagram, sequence diagrams etc, database modelling including entity-relationship diagrams.
+Hands on experience in Microservices design and development
+Strong understanding and experience of software development best practices/clean code principles/debugging practices
+Knowledge on writing Unit test cases and carrying out Unit testing using Junit, Mockito etc.
+Working experience of designing & developing solutions in cloud environments preferably Azure.
+Security experience in OAuth2/Spring Security/LDAP-basics/AWS Authentication/Azure AD/any other cloud/on-prem authentication will be useful.
+UI experience using, HTML5, jQuery, JSON, JavaScript and CSS will be an added advantage
+Exposure to Profiling tools like JMeter or any other tools.
+Experience with Continuous Integration/Continuous Deployment
+Experience in projects managed in accordance with AGILE (SCRUM) methodology
+Version control software experience in Git/Bitbucket/SVN/Clear case/PVCS/any other tool
+Strong problem-solving and analytical skills leveraging all available resources
+Attention to detail and commitment to high quality/error free deliverables
+
+Good to have:
+Open API/Swagger experience.
+NoSQL database - Mongo DB/Cassandra/any other
+Experience with messaging technologies (e.g. Kafka, MQ), Event processing technologies.
+UI exposure using Angular/React will be an added advantage.
+Lead the team to come up with High level solution design in response to RFPs and experienced in sizing the project and estimating the effort.
+Knowledge on the CMMI framework.
+Expertise in distributed architectures, MOM integration technologies and message mediation. techniques using an Enterprise Service Bus.
+Experience in implementing caching mechanisms/solutions.
+
+To qualify for the role, you must have
+Bachelor's/Master’s degree in Computer Science, Engineering, Information Systems Management, or a related field.
+6 to 9 years of experience
+Experience in leading the teams
+Knowledge on process methodologies – Agile/frameworks like CMMI
+
+-------------------------------------------------------------------------
+Paypal
+
+
+• Expert in back-end development using Java EE technologies with minimum 3+ years of experience. (e. g. Java language, application servers, servlet containers, JMS, JPA, Spring MVC,Hibernate).
+
+• Strong OOP skills, with ability to analyze requirements and transform into scalable software designs.
+
+• Experience with HTTP, REST API's and competent designing and building web services/microservices in a commercial setting.
+
+• Cognizant of SQL and other/NoSQL/modern database and storage technologies.
+
+• Desired understanding of Oracle, JDBC and ORM frameworks (e. g. Hibernate).
+
+• Experience with Design Patterns, MVC and frameworks (e. g. Spring).
+
+• Competent in design/implementation for reliability, availability, scalability and performance.
+
+• Competent in software engineering tools (e. g. Java build tools) and best practices (e. g. unit testing, test automation, continuous integration, etc. ).
+
+• Good understanding of web services and SOA related standards like REST/OAuth/JSON and SOAP/WSDL.
+
+• Demonstrate a high level of curiosity, passion for technology, pride of ownership and strive for excellence
+
+• Experience with using Agile/Scrum methodology for software development.
+
+ 
+----------------------------------------------------------------------------------------------------------------------------------
+
+In this coding question, you are asked to implement the function separate(ArrayList<Integer> myList) that takes an ArrayList of integers as a parameter and returns the same as well.
+
+Your task is to separate the even numbers from the odd numbers. Place all the even numbers to the left side of the ArrayList and place all the odd numbers to the right side of the ArrayList.
+
+Note: You are not allowed to create extra ArrayList variables. All the operations and changes need to be performed on the same myList variable that is passed as the parameter.
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+I am a backend engineer having six years of experience into product development. I have expertise in building SaaS applications at scale. Previously I was associated with Zoho in developing Zoho's Finance Suite of products. I have made a significant impact in all the areas I have worked upon. The following are my areas of expertise 
+
+1. Having experience in Java, Apache Tomcat, MySQL, Elasticsearch, Redis, JVM Cache, Kafka etc.
+2. Experience in developing REST API, improving core framework components such as Cache, Persistence, Queue, Scheduled jobs etc.
+3. Created procedures for system monitoring, recovery, backup and optimisation. Having expertise in debugging production issues, analysing logs from production server for determining root causes and Identifying component related issues.
+4. Revised, modularised and updated old code bases to modern development standards, reducing operating costs and improving functionality.
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+https://stackoverflow.com/questions/212350/which-annotation-should-i-use-idclass-or-embeddedid
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/
+https://www.baeldung.com/spring-data-jpa-batch-inserts
+
+
+
+
+14 LPA (Here)
+
+ 30% of above pay is 18.2 LPA -- > 22 ---> 26 ---> 30
+
+ 30% of above pay is 23.66 LPA
+
+ 30% of above pay is 30.75 LPA
+
+
+ Cap la 16LPA
+ Wipro 18.5 LPA
+ synechron la 22.5
+ EPAM 21.5 Fixed
+
+ MindTree 
+
+ 5  offer is enough? 3 service based 
+
+ Service 1 - 17 1st Month
+ Service 2 - 20
+ Service 3 - 23 CTS Heavy Package ask!
+
+ Product 1 - 28 1.5 Month
+ Product 2 - 32 with RSU & Joining bonus 2 LPA 3rd Month
+ 
+-----------------------------------------------------------------------------------------------------------------
+
+Prashanth Bro Recommended companies
+
+HCL 
+Virtusa polarisis
+Altimetrik
+Paypal
+Caterpillar - so basic
+Ericsson - Bangalore
+Virtusa --> standard chartered
+
+
+    One arraylist a,b,c,d,e,f
+    iterator i, j assigned to the same arraylist
+
+    iterator i i.hasnext()
+    {
+    iterator j j.hasnext(){
+            sout(i.next())
+            sout(j.next())
+       }
+    }
+
+    Output: aa bb cc dd ee ff gg
+
+
+TCS :
+Concurrent Modification Exception in Collection class while iterating
+Hibernate Lazy Loading
+There is your stateless service, you need to call a stateful 3 party service & it has been deployed in 5 instances. You need to make sure it calls for same instance everytime. How will you implement the same using Cookie Stickiness.
+unchecked Exceptions
+How do you handle memory leak - Heap size stackoverflowerror - sol: using JProfiler
+Circuit Breaker pattern - Why you should n't apply?
+How to exclude Tomcat & use glassfish server in Spring Boot
+There are two types transactional in data jpa?
+String Intern concepts
+
+
+
+Program. Write a code for following.
+for string=1462 calculate from right most to left in this manner 2+(6*2)+4+(1*2) [where every II, Iv, vi, .. should be multiplied by 2 and the sum should be divided by10 if quotient is 0 then print true otherwise false
+1462=2+(6*2)+4+(1*2) = 20%10=0 (true)
+1764526=6+(2*2)+5+(4*2)+6+(7*2)+1=44%10!=0(false)
+
+{
+    String s = "1764526";
+    int sum = 0;
+    int flag = 0;
+
+    for (int j = s.length() - 1; j >= 0; j--) {
+      int number = Integer.parseInt(String.valueOf(s.charAt(j)));
+      if (flag == 0) {
+        sum += number;
+        flag = 1;
+      } else {
+        sum += number * 2;
+        flag = 0;
+      }
+    }
+
+    System.out.println(sum);
+    System.out.println(sum%10 == 0 ? true : false);
+  }
+
+Walmart - Hari Ivtl Madurai
+
+K-group reversal in LL
+Binary search in 2d array
+Minimum number of platforms required
+diameter of a tree
+---------------------------------------------------------------------------------------
+
+Zemoso - 28 June 2022 Round 1
+
+
+int[] arr = {3, 0, 7, 0,5 ,0}
+
+3 7 5 0 0 0
+
+int nonzeropointer = 0;
+
+for(int i =0; i<arr.length; i++){
+	if(arr[i]!=0){
+		arr[nonzeropointer++] = arr[i];
+	}
+}
+
+3 7 5
+
+nonzeropointer will be at 2 position
+
+3 7 5 0 0 0
+
+O(n + 3)
+
+https://www.geeksforgeeks.org/move-zeroes-end-array/
+
+
+Mediator design pattern
+Solid principles
+Microservices
+@Query - Native query - Hibernate - @Transactional
+
+Swagger for documentation
+
+LocalDateTime diff in Java 8 vs Java 7 - why?
+
+
+jvm
+gc
+
+using final  for transient and what happens in serialization
+exceptiosn - checked and unchecked
+union vs union all
+
+
+transient and final : final variables are directly serialized by their values, so there is no use/impact of declaring final variable as transient.
+
+ArrayList LinkedList
+FailFast vs Fail safe iterator
+sleep vs yield
+setPriority in threads
+
+If two threads of the same priority are waiting for the CPU, the scheduler arbitrarily chooses one of them to run. The chosen thread runs until one of the following conditions is true: A higher priority thread becomes runnable. It yields, or its run method exits.
+throw vs throws
+why string is immutable?
+Immutable classes
+Functional interfaces examples
+Lambda expressions
+
+What happens if we remove catch from a try/catch block
+What happens if we remove finally from a try/catch/finally block
+
+synchronised A()
+synchronised B()
+class A calling A
+class B calling B
+Which one will execute?
+@BeforeClass and @AfterClass
+Global Exception handling
+Mediator Pattern ?
+Find second max salary of an employee
+JWT
+Distributed database
+Types of class loaders in JVM
+Internal working of Arraylist
+Idempotent - Rest Api
+Batch Scheduling? Have you worked on this?
+
+-----------------------------------------------------------------------------------------------------
+
+Q1) Interface DemoInterface{
+	m1();
+	m2();
+}
+
+Class A implements DemoInterface{
+	m1();
+	m2();
+	m3();
+}
+
+Inside Another Class,
+
+	main(){
+	   DemoInterface object = new A();
+	   object.m3();
+	}
+
+Sol: m3 will not be visible since DemoInterface has only m1 & m2;
+
+---------------------------------------------------------------------------------------------------------------------------
+OFSS - Oracle
+
+
+
+a + bi
+
+1  8+9i
+2  1+2i
+
+9+11i
+
+
+
+public class ComplexNumber{
+	private int real;
+	private int imaginary;
+
+	public ComplexNumber(int real, int imaginary){
+		this.real =real;
+		this.imaginary = imaginary;
+	}
+
+	//Getters
+	public int getReal(){
+		return this.real;
+	}
+
+	public int getImaginary(){
+		return this.imaginary;
+	}
+
+	//Setters
+	public void setReal(int r){
+		this.real = r;
+	}
+
+	public void setImaginary(int i){
+		this.imaginary = i;
+	}
+
+	public static ComplexNumber addition(ComplexNumber obj1, ComplexNumber obj2){
+		ComplexNumber res = new ComplexNumber();
+		res.real = this.real + obj2.getReal();
+		res.imaginary = this.imaginary + obj2.getImaginary();
+		return res;	
+	}
+
+
+	Main(){
+		ComplexNumber c1 = new ComplexNumber(8, 9);
+		ComplexNumber c2 = new ComplexNumber(1, 2);
+
+		ComplexNumber res = addition(c2);
+	}
+}
+
+// Multiplication & Division of two complex numbers
+
+static 
+
+J2EE - Servlet
+		Spring MVC - Dispatcher 
+		Spring Boot - Profiles,actuator
+
+
+		@Autowired
+
+		ApplicationContext? - IoC & DI
+
+
+		@SpringBootApplication - @autoCompon
+
+		@RestController
+
+		/getTransaction - D
+
+		@primary , @Qualifier
+
+		@Value() - 
+		@Scope("prototype") - 
+
+		@ControllerAdvice
+		@ExceptionHandler
+
+		ErrorResponseModel
+
+
+		1 - 
+		200 - OK
+		2
+		3 - 
+		404- 
+		500 - Internal server errors
+
+		@Transactional
+
+		insert 
+
+		Table
+
+		pk
+		Composite pk
+		why joins are used
+		ManyToMany associations - what is the third table holds?
+		Hibernate dialects
+		
+
+		 select * from tabl
+
+
+		 POJO - Database
+
+
+		 @Entity
+		 @Table
+
+
+		 @Column(name = "")
+		 transaction_id = transactionId
+
+
+		 @Repository
+		 public interface transactionRepo extends JPARepository<Transaction,Integer> {
+
+		 	public int findByAccNum();
+
+		 }
+
+		 CRUD + PagingAndSorting
+
+		 AccNum, credit, balance
+
+
+		 CacheManagement
+
+		 Key, value - Redis - RAM
+
+		 @Cacheable
+
+		 Stale data - 
+
+		 () ->  {
+
+		 }
+
+		 ::
+
+		 Predicate 
+		 Consumer 
+		 Supplier 
+
+		 Stream - map
+		 			filter
+
+		 			.sum
+		 			.count
+		 			.collect
+
+class Employee{
+	
+	String firstName;
+	String lastName;
+	int salary;
+	String email;
+	String dept;
+}		 			
+
+
+
+Employee e1 = ("John", "Abraham", 2000, "john@gmail.com","Mgr");
+Employee e2 = ("Mathew", "C", 4000, "Mathew@gmail.com","emp");
+Employee e3 = ("Deep", "D", 5000, "deep@gmail.com","Mgr");
+Employee e4 = ("Alya", "E", 6000, "alya@gmail.com","emp");
+Employee e5 = ("Jack", "K", 7000, "jack@gmail.com","Mgr");
+
+List<Employee> empList = new ArrayList<>();
+empList.add(e1);
+empList.add(e2);
+empList.add(e3);
+empList.add(e4);
+empList.add(e5);
+
+List<String> firstNameList = empList.stream().map(emp -> emp.getFirstName()).collect(Collectors.toList());
+
+
+empList.stream().sorted() // CompareTo 
+
+Sort based on employee salary
+
+empList.stream().filter(e -> e.getDept.equals("Mgr")).collect(Collectors.toList());
+
+Second Max salary
+
+
+@Test
+
+positive
+negative
+Exceptions
+
+JDK 11 - var 
+file Improvements
+
+HashMap
+
+	<Key, value> hash of the obj
+
+
+
+
+	Core java
+	DB concepts - ORM internally works - JPA Repository
+	Hibernate/Eclipse Links - How it works and all!
+
+	ETL
+
+
+LRU Cache
+
+---------------------------------------------------------------------------------------------------------------------
+
+Zemoso Round 2 Happenend on 11 July 2022
+
+1) Cycle in a LinkedList
+
+2) Stack - sort a stack of integers
+https://www.youtube.com/watch?v=vFOY8rd_Bcw&ab_channel=Java2Novice
+
+	
+	Stack<Integer> givenStack =  5 2 1 4 3
+
+
+	Stack<Integer> stack1 = new Stack<>();
+	Stack<Integer> stack2 = new Stack<>();
+
+	while(!givenStack.isEmpty()){
+		if(givenStack.top() < stack1.top() && !stack1.isEmpty()){
+			stack1.push(givenStack.pop());
+			
+			while(!stack2.isEmpty()){
+				stack1.push(stack2.pop());
+			}
+		}
+		else{
+			stack2.push(stack1.pop());
+		}
+	}
+
+
+
+@Transaction
+
+emp  
+	id - pk
+	name
+	age
+	salary
+	deptId
+
+Dept
+	id - pk
+	name
+
+OneToMany - write a query to show each dept, with their count of employees
+
+select d.name, count(e.id)
+from Dept d Join
+	 emp e on e.deptID = d.id
+	 group by d.id;
+
+
+age > 60
+write a query to display all depts where emp age > 60 atleast 3 people
+
+select d.name
+from Dept d Join
+	 emp e on e.deptID = d.id
+	 where e.id IN (select * from emp e where e.age > 60 );
+
+solutions:
+
+show databases;
+create database usermanagement;
+use usermanagement;
+
+create table dept(id int primary key, name varchar(50));
+create table emp (id int primary key, name varchar(50), age int, salary int, deptId int references dept(id));
+
+insert into dept values(1, 'HR');
+insert into dept values(2, 'Engineering');
+insert into dept values(3, 'Testing');
+
+insert into emp values(1, 'Nataraj', 26, 2000, 2);
+insert into emp values(2, 'Nataraj', 26, 2000, 3);
+insert into emp values(3, 'Divya', 22, 2000, 3);
+insert into emp values(4, 'Amreetha', 24, 2000, 1);
+insert into emp values(5, 'Manjula', 24, 2000, 1);
+insert into emp values(6, 'Santhini', 24, 2000, 1);
+insert into emp values(7, 'Thilak', 20, 2000, 2);
+
+select * from emp;
+select * from dept;
+
+select d.name, count(e.id)
+from dept d join emp e
+on d.id = e.deptId
+group by d.id;
+
+select d.name from dept d join emp e on e.deptId = d.id where age < 25 group by d.name having count(e.id) > 1;
+select d.name from dept d join emp e on e.deptId = d.id where age < 25 group by d.name having count(e.id) > 0;
+
+select d.name from dept d join emp e on e.deptId = d.id where e.id IN (select id from emp e where e.age < 25 );
+-------------------------------------------------------------------------
+
+Altimetrik L1 30 mins 13 July
+
+Is it possible to override default method in an interface
+qualifier vs Primary
+Angular - input/output
+why string is immutable?
+-------------------------------------------------------------------------
+Altimetrik Ford 14 July 2022 15 mins
+
+ArrayList - of emp, collect it as map Key: elem, value:Frequency
+					Print only duplicates
+					How to test a void method in Junit
+How will you override default configuration in spring boot -Sol: @Configuration
+-------------------------------------------------------------------------
+Msys 14 Mins 14 July 2022
+
+performance in tuning sql
+sleep vs wait
+executor service
+
+-------------------------------------------------------------------------
