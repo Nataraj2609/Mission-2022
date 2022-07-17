@@ -1,0 +1,26 @@
+
+NIUM: 16 July L1
+
+userList.stream.map(user -> user.getUserName.split(" ")).map((o1, o2) -> o2).sort((o1, o2) -> o1.compareTo(o2) < 1).collect(Collectors.toList());
+
+Mkyong - 
+
+Executor service - 
+
+@FunctionalInterface 
+Stream 
+Qualifier
+@Transaction(@RollbackFor = .class)
+EMp @Autowired - Cyclic dep - sol : Lazy load
+Address @Autowired
+
+PUT Vs POST -
+/abc - 
+DNS/pqr
+
+
+	SOLID, DRY, KISS
+	Agile
+	Design Patterns
+	Memory leaks
+	Avoid Magic Numbers, Enums, Immutable classes, Use collections, Junit, Integration - Automating Tests, Separation of code concerns, Naming convention, Indentation, Logging, USE SONARQUBE.
