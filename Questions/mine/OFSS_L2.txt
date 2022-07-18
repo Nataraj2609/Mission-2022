@@ -68,3 +68,4 @@ JPA biDirectional
 EclipseLink - Get an overview of this one
 Flyway migration - make use of it
 
+https://www.geeksforgeeks.org/iterate-map-java
