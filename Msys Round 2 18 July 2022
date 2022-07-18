@@ -1,0 +1,119 @@
+
+
+Msys Technologies
+------------------------------------------------------------------------------
+
+String inputStr = "Msys";
+StringBuilder sb = new StringBuilder(inputStr);
+String output = sb.reverse.toString();
+
+
+class Employee {
+	int id;
+	String name;
+	Address address;
+}
+
+final class Employee {
+	private final int id;         
+	private final String name;
+	private final Address address;
+
+	Employee(int id, String name, Address address){
+		this.id = id;
+		this.name =name;
+		Address tempAddr = new Address();
+		tempAddr.setCity(address.getCity());
+
+		this.address= tempAddr;
+
+	}
+
+
+	//getter
+	public int getId(){
+	return id
+	}
+	public Address getAddress(){
+		Address tempAddr = new Address();
+		tempAddr.setCity(address.getCity());
+
+		return tempAddr;
+	}
+
+}
+
+c:/msys
+
+In this directory, you will be having n files with words in each line. Task is to use multithreading(Make use of Executor Service) & Print it in hashMap format ordered by frequency descending order.
+
+file 1 - apple, banana
+file n - apple
+
+apple - 99
+banana - 112
+
+banana - 99 , apple - 112
+
+
+Hashmap
+stream
+sorted
+
+new ThreadPoolExecutor(10);
+
+ExecutorService.submit()
+
+There's a Emplist, get the emp name with max age
+
+emplist.stream.map(Emp -> Emp.getAge()).max();
+
+
+JPA - 
+
+SQL - 
+
+	emp
+		id,
+		name,
+		dept_id
+	dept
+		id
+		name
+
+		select e.name, d.name
+		from emp e join
+		dept d
+		where e.dept_id = d.id;
+
+Emp - @Lazy Addr
+Addr - Emp 
+
+JPA - JDBC
+	
+	JPARepos
+	Pa
+	CrudRe
+
+	USer
+		id
+		name
+		age
+		isRetired
+
+		1000
+
+	@Document
+	MongoRepository
+
+
+	KeyCloak - Realm - 
+
+	Basic Auth, OAuth2.0
+	OKTA , saml
+
+	AWS EKS, S3 - IAM - 
+	Hashicorp Vault
+
+	Git, 
+
