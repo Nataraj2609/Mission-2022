@@ -1,0 +1,70 @@
+
+//OFSS Level 2 - Srinivasa Reddy - July 18 2022
+
+Customer (1 to many)
+	id,
+	name
+	addr
+Account
+	id,
+	custId,
+	accNum,
+	accBal,
+	openingDate
+
+
+@Builder
+public class Customer{
+	private int id;
+	private String name;
+	private String addr;
+
+	MADE MISTAKE WHILE POINTING mappedBy BIDIRECTIONAL
+	@OneToMany(mappedBy = "customer")
+	private List<Account> accountList;
+}
+
+
+Need to sort accBal, openingDate
+
+accountList.stream.sorted(Comparator.comparing(Account::getAccBal).thenComparing(Account::getOp))
+
+accountList.stream.map(Acc -> Acc.getAccNum()).collect(Collectors.toList());
+Mockito, Junit 5
+
+
+
+@Builder
+@Data
+@Entity
+@Table(name = "Account")
+public class Account{
+	private int id;
+
+	@ManyToOne(JoinColumn = "custId", referencedColumn="id")
+	private Customer customer;
+	private String accNum;
+	private BigDecimal accBal;
+	private LocalDate openingDate;
+
+
+
+	//Getters
+	//Setters
+	//NoArgCons
+	//ArgConstructors
+
+}
+
+Redis
+Cache_miss?
+groovy - heard of it
+
+
+
+
+Core banking legacy -> cloud
+JPA biDirectional
+EclipseLink - Get an overview of this one
+Flyway migration - make use of it
+
