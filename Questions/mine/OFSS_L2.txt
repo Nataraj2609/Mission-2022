@@ -69,3 +69,6 @@ EclipseLink - Get an overview of this one
 Flyway migration - make use of it
 
 https://www.geeksforgeeks.org/iterate-map-java
+
+SynchronizedMap acquires lock on the entire Map instance , while ConcurrentHashMap divides the Map instance into multiple segments and locking is done on those.
+
