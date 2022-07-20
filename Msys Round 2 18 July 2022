@@ -117,3 +117,43 @@ JPA - JDBC
 
 	Git, 
 
+Third round
+-----------------------------------------------------------------------------------------
+
+
+
+3 largest salary
+
+select e.name, e.salary from emp e order by e.salary desc limit 1 offset 2;
+
+empList = Arrays.asList(2,5,7,9,5);
+
+empList.stream.mapToInt(e -> e).sum().get();
+
+empList.stream.distintreduce((a,b) -> a+b);
+
+empList.stream.collect(Collectors.toMap(Function.identity, ))
+
+
+empList.stream().distinct().coll
+
+
+Input  : arr[] = {1, 14, 2, 16, 10, 20}
+
+int firstMax = Integer.Min_value;
+int secondMax= Integer.Min_value;
+int thirdMax= Integer.Min_value;
+
+for(int i: arr){
+	if(i > firstMax){
+		thirdMax = secondMax;
+		secondMax = firstMax;
+		firstMax = i;
+	} else if(i > secondMax){
+		thirdMax = secondMax;
+		secondMax = i;
+	}	else if(i > thirdMax)
+		thirdMax = i;
+}
+return thirdMax;
+
