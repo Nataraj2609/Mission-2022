@@ -1,0 +1,59 @@
+
+
+String
+char[] = "name"
+String - Immutable 
+String a = "name";
+
+public void setName(String s){
+	
+}
+
+StringBuffer sb = new StringBuffer("InitialData");
+
+
+
+ interface Demo<P, Q, R> {
+    public boolean demoMethod(P p, Q q, R r);
+}
+
+
+(p,q,r) -> {  }
+
+
+    public void getEmployeeName(List<? extends String> list1, List<? super String> list2) {}
+
+    Generics, Functional Interface, Predicate interface
+    comparable is not a functional interface
+
+    cafebabe -  class opened in editor (first)
+
+
+
+    main(){
+    	int a = 10;
+    	String o = "Hi" 
+    	Employee e 
+
+    	hash
+    } // Pass by value - Java
+
+    effectively final 
+
+
+    workstealing
+    syncqueue
+    adapter design pattern
+    fascade
+    PriorityBlockingQueue
+    Semaphore
+    TransationIsolation level - @Transaction
+    SOLID - Liskov - Stack class in Java violates it
+
+
+    @RestController
+    @POST - 
+    al vs stack - vector
+
+
+21 july 2022 [3:14 PM] Amit Bhaurao Gawande
