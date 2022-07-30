@@ -1,0 +1,12 @@
+
+3 questions asked
+
+1)  List<Integer> myList = Arrays.asList(10,15,8,49,25,98,64,98,32,15,72);
+
+    HashSet<Integer> hset = new HashSet<>();
+    myList.stream().filter(a -> !hset.add(a)).forEach(System.out::println);
+
+2)  Deadlock in java - implement in IDE
+
+3)  Implement Custom Exception in java
+
