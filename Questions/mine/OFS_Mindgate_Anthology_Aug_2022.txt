@@ -1,0 +1,194 @@
+
+
+OFS - L1 round - Pradeep Aug 6 2022
+
+
+class Employee
+{
+    Long empId;
+	String name;
+	String designation;
+	int age;
+	Bigdecimal salary;
+}
+
+
+DTO
+Restcontroller
+Service
+Persistace
+Entity
+
+[{
+		"empId": 123,
+        "name": "abc		",
+        "designation": "junior engineer",
+        "age": 22,
+		"salary": $1000.00000
+
+		Math.round()
+		// Jackson serializers library
+},
+{
+		"empId": 124,
+        "name": "edf		",
+        "designation": "senior engineer",
+        "age": 25,
+		"salary": $1100.12345
+},
+{
+		"empId": 125,
+        "name": "abc		",
+        "designation": null,
+        "age": 32,
+		"salary": $990.01203
+}]
+
+Map -Key designation Value : List<Emp>
+
+empList.stream().collect(Collections.toMap(Employee::getDesignation, Function.identity()));
+
+map
+filter
+Collections.groupingBy
+
+
+
+
+List<Integer> num = {10, 20, 20, 21, 45, 46, 46, 5, 80, 5};
+
+
+HashSet<Integer> h = new HashSet();
+List<Integer> res =  num.stream().filter(!a-> h.add(a)).collect(Collections.toList());
+
+@ControlerAdvice
+
+
+Mockito 
+
+@Mock
+EmplRository empRepo;
+
+@InjectMock
+EmpDaoImpl empDao;
+
+@Before
+
+
+@Test
+void testEmpSalary(){
+	when(empRepo.findSalary()).thenReturn(5000);
+
+	int salary = empRepo.findSalary();
+	assertEquals(5000 , salary);
+}
+
+
+@Configuration
+// custom bean - 
+
+Jpa specifications, Json Serialisers library
+Criteria API - dynamic query - based on type and conditions
+
+Blockchain 
+--------------------------------------------------------------------------------------------------
+
+Anthology/Blackboard L1 Tech - Maheswaran natarajan
+
+class SingletonExample{
+	
+	final SingletonExample obj;
+
+	public SingletonExample(){
+
+	}
+
+	SingletonExample getSingletonExample() {
+		synchronised{
+			if (obj == null)
+				obj = new SingletonExample();
+			return obj;
+		}
+	}
+}
+
+class Temp{
+	
+}
+
+
+
+int[] arr = {2,3,4,5};
+
+int min = INTEGER.MAX_VALUE, max = INTEGER.MIN_VALUE;
+
+for(int i : arr){
+	if(i < min){
+		min = i;
+	}
+	if(i > max) {
+		max = i;
+	}
+}
+
+MADAM - 
+
+StringBuilder sb = new StringBuilder(str);
+String res = sb.reversed().toString();
+if(str.equals(res))
+	Palindrome
+
+
+MVVM ngModel
+
+== vs === 
+
+() -> callback function ?
+
+Promises
+-----------------------------------------------------------------------------------------------------------
+
+MINDGATE L1 Round - Abdul
+
+
+PATIENT
+DOCTOR
+CWS
+ORDER Management - scm
+Transaction
+
+KeyCloak - Realm - OAUTH 2/JWT 
+
+https://www.baeldung.com/spring-rest-http-headers
+How will you make a RastTemplate call with JWT added in Header
+
+
+StaleObjectStateException -  
+
+
+
+
+Emp Id	Name	Salary	ReportingId
+10000	A		238000	10001
+10001	B		282733	10002
+10002	C		423u33	10003
+10003	D		528233	10004
+10004	E       623423	10005
+10005	F		723423	10006
+
+
+Input : 10003
+Output :
+
+Emp Id	Name	Salary	Reporting Emp Id	Name	Salary	
+10003	D		528233	10004				E       623423
+
+
+WRONG sol I gave:
+
+select e1.empId, e1.name, e1.salary, e2.reportingId, e2.name, e2.salary
+from emp e1 join emp e2 on
+e1.empId IN  '10003' AND e2.empId IN (select reportingId from emp where empId = '10003') 
+
+
+
