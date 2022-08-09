@@ -1,0 +1,70 @@
+
+Amadeus Labs, bangalore - 9 Aug 2022
+
+OOPS concepts - 6 things
+
+Explain why multiple inheritance is not supported in java - Sol expected - should have explained interface with default names & use super.
+
+interface fun1{
+	public void display();
+}
+
+
+interface fun2{
+	public void display();
+}
+
+class Test implements fun1, fun2 {
+	
+	@Override
+	public void display(){
+		System.out.println(" I have been Test Class");
+	}
+}
+
+String str = "Hello";
+String str = "Hello".intern();
+
+String str1 = "Hello";
+
+
+09 Aug 2022 - [3:17 PM] Jai PRAKASH
+
+
+Given an integer array nums. You are initially positioned at the array's first index, and each element in the array represents your maximum jump length at that position. Return true if you can reach the last index, or false otherwise.
+
+Input: nums = [2,3,1,1,4]
+Output: true
+Explanation: Jump 1 step from index 0 to 1, then 3 steps to the last index.
+
+
+Example 2:
+Input: nums = [3,2,1,0,4]
+Output: false
+Explanation: You will always arrive at index 3 no matter what. Its maximum jump length is 0, which makes it impossible to reach the last index.
+
+
+My solution:
+
+
+Input: nums = [2,3,1,1,4]
+Array size : 5
+
+int ptr1 = 0;
+int ptr2 = 0;
+
+while(true){
+	int elem = nums[ptr1];
+	if(elem == 0 && nums.lenght != 1 )
+		return false;
+
+	ptr2 = ptr2 + elem ; 
+	if(ptr2 == nums.length - 1)
+		return true;
+
+	ptr1++;
+
+
+}
+
+https://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/
