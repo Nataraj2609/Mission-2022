@@ -1,0 +1,24 @@
+
+
+Apexon
+
+Find Third max in an array
+
+
+
+NielsenIQ
+Karthikeyan Viswanathan - 3 years (18 Years experienced)
+
+select s.subject_name from subject s joins marks m where s.id != m.stud_id
+
+
+How will you disable @autowiring in spring boot
+how will you disable spring boot logo in spring application
+subject table marks table - collect all subjects name which is not present in marks table
+
+Using stream, do filter gender - male , do filter score > 70, sorted(comparingInt) in reverse order, limit(5) & print emp name & salary
+Native Query - Use in your Repository
+How spring boot loads Jar, how it is different from spring mvc
+maven build management tool - how do you pack your application with all required dependencies
+junit - 90%
+
