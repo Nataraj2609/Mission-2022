@@ -1,0 +1,55 @@
+
+
+Wissen Technology / Infotech
+
+20 Aug 2022
+Hackerearth
+
+Coding 1: Median Queries (Easy) - i/p: -->  Arr: 4,3,5,6,1,2 L = 1, R = 3
+								process--> temp[] = 4,3,5 Sort them 3,4,5 & find median
+								o/p:   --> 4
+
+Coding 2: Farthest from 0 (Easy) - i/p: --> Arr: -5,4,-1,4,5 Find max of math.abs() & return elem (lowest if multiple occurs - in this case -5,5 - return -5)
+								process --> Maintain HashMap for special case & solve
+
+class A{
+	void xyz() {}
+}
+
+class B extends A{
+	void xyz() {}
+}
+
+class MainClass{
+	Main(){
+		A a = new B();
+		a.xyz();           // Calls xyz of method B
+
+
+		B b = new A();     // Compile time error
+		b.xyz();         
+
+		B b = new B();
+		b.xyz();           // COnstructor of A, Constructor of B & then xyz of b;
+	}
+}
+
+
+SQL Question Hard: 
+
+People
+
+id Name  Gender
+1  Nat    M
+2  Mani   M
+3  Santha F
+
+relations
+
+c_id p_id
+1      2
+1      2
+
+
+
+
