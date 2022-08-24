@@ -1,0 +1,82 @@
+
+
+Apexon - Goldman Sachs Avish shah Level2 Interview
+
+public class Test {
+  public static void main(String args[]) {
+    Parent p = new Child();
+    p.foo();
+  }
+}
+class Parent {
+  
+  public void foo() {
+    System.out.println("this is parent");
+  } 
+}
+class Child extends Parent{
+  @override
+  private void foo() {
+    System.out.println("this is child");
+  } 
+}
+
+protected -> public
+
+aggregation composition
+
+oops
+
+id
+salary
+name 
+address
+
+List<Emp> 
+
+
+EmpList.stream().filter(e -> e.getDeptName.equals("Accounting")).collect(Collectors.toMap(Emp::getId, Emp::getAddress));
+
+
+Bucket - 
+
+Node {
+	int hash
+	int key
+	Obj value
+	Next n;
+}
+
+
+Say you have an array for which the ith element is the price of a given stock on day i.
+If you were only permitted to complete at most one transaction (i.e., buy one and sell one share of the stock), design an algorithm to find the maximum profit.
+Note that you cannot sell a stock before you buy one.
+[7,1,5,3,6,4]
+
+int maxProfit = 0;
+
+
+for(int i = 1; i < arr.length; i++) {
+	int prev = arr[i-1];
+
+
+	if (arr[i] > prev)
+        maxProfit += arr[i] - prev;
+}
+
+ return maxProfit;
+
+
+ 4 + 3 = 7 maxProfit
+
+
+
+How serialisation works in java?
+Does static members are serialized ? - No
+how to make sure a member is not serialized - use Transient
+
+Have to study on access specifier downgrading & upgrading stuffs
+
+Find the odd number of occured element in an array
+
+Cleared two rounds :)
